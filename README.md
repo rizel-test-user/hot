@@ -37,6 +37,7 @@
 In order to run the project we need the following software binaries installed on our development machines:
 - `node>=16.7.0`
 - `npm>=8.0.0` 
+dafsdfadsfdasfdsafdsfadsfadsfs
 
 We can also use one of the listed cloud providers we support:
 
